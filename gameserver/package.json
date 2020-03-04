@@ -1,0 +1,21 @@
+{
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "start": "node --experimental-modules --es-module-specifier-resolution=node server.mjs"
+  },
+  "type": "module",
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "dateformat": "*",
+    "fs": "*",
+    "net": "*",
+    "pg": "*",
+    "ws": "*",
+    "nodemon": "*",
+    "socket.io": "^2.2.0",
+    "http": "*"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "host": "127.0.0.1",
+  "port": 15779,
+  "gs": {
+    "host": "127.0.0.1",
+    "port": "1337"
+  },
+  "farms": [
+    {
+      "id": 20,
+      "name": "SRO_EicGame_Turkey [F]",
+      "agents": [
+        {
+          "id": 14,
+          "name": "Mira",
+          "host": "127.0.0.1",
+          "port": 15884,
+          "currentUsers": 0,
+          "maxUsers": 2500,
+          "state": 1
+        }
+      ]
+    }
+  ]
+}
