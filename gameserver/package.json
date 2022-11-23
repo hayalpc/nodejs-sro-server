@@ -15,7 +15,7 @@
     "pg": "*",
     "ws": "*",
     "nodemon": "*",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "http": "*"
   }
 }
